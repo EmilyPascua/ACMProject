@@ -1,0 +1,15 @@
+.mainContent{
+    text-align: center;
+}
+
+.card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    width: 18rem;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+#submit{
+    margin: 5px;
+}
